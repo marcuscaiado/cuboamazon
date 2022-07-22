@@ -7,5 +7,5 @@ Projeto de Cubo 3d transformado em caixa da amazon
 https://marcuscaiado.github.io/cuboamazon/
 
 
-V1.
+v1.
 https://marcuscaiado.github.io/cubo/
