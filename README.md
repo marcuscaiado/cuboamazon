@@ -2,7 +2,7 @@
 
 CSS ONLY
 
-Projeto de Cubo 3d transformado em caixa da amazon
+Projeto de Cubo 3d transformado em caixa da Amazon
 
 https://marcuscaiado.github.io/cuboamazon/
 
